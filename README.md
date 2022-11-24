@@ -8,6 +8,7 @@ Pojeto criado com base no curso de Next.js e React - Curso Completo - Aprenda co
 
 projeto Quiz de perguntas e resposta, nesse projeto foi utilizado:
 
+<div>
 > react
  *useEffect
  *useState
@@ -17,8 +18,8 @@ projeto Quiz de perguntas e resposta, nesse projeto foi utilizado:
 > html
 > css
 > typescript
+<div/>
 
-![Captura de tela 2022-11-24 131711](https://user-images.githubusercontent.com/88638080/203829203-4a8252b5-4438-4f7f-9577-567b9ed22359.png)
 
 
 
