@@ -10,8 +10,10 @@ Pojeto criado com base no curso de Next.js e React - Curso Completo - Aprenda co
 
 projeto Quiz de perguntas e resposta, nesse projeto foi utilizado:
 
+<ul>
+  <li>React</li>
+</ul>
 
-<h2> react </h2>
  *useEffect
  *useState
 > next.js
