@@ -13,11 +13,11 @@
 
 <ul>
   <li>React</li>
-  <li>next.js</li>
-  <li>javaScript</li>
-  <li>html</li>
-  <li>css</li>
-  <li>typescript</li>
+  <li>Next.js</li>
+  <li>JavaScript</li>
+  <li>Html</li>
+  <li>Css</li>
+  <li>Typescript</li>
 </ul>
 
  
