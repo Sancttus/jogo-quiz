@@ -46,3 +46,13 @@ Nessa tela também tem um botão para reiniciar o jogo.
 <p>Pasta function: possuí um único arquivo com a logica responsável pro embaralhar as perguntas e respostas</p>
 <img src="public/pasta_função.png"/>
 
+<h2>Pasta pages</h2>
+<p>Pasta page: possuí possuí outras pastas dentro dela pasta API, pasta QUESTOES, Pasta MODEL e alguns arquivos</p>
+<p>Pasta API:  </p>
+<p>Pasta QUESTOES: </p>
+<p>Pasta MODEL: </p>
+<p>Arquivo index.tsx: </p>
+<p>Arquivo numeroAleatorios.tsx: </p>
+<p>Arquivo resultado.tsx: </p>
+<img src="public\pasta_pages.png"/>
+
