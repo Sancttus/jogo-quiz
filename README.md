@@ -34,5 +34,5 @@ Nessa tela também tem um botão para reiniciar o jogo.
 
 <h2>Componentes do Projeto</h2>
 
-<img src="D:\Aplicando\projetos github\projetos\jogo-quiz\public\componentes.png"/>
+<img src="public\componentes.png"/>
 
