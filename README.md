@@ -32,7 +32,17 @@ Nessa tela também tem um botão para reiniciar o jogo.
 
 <hr/>
 
-<h2>Componentes do Projeto</h2>
+<h2>Arquivos do Projeto</h2>
 
-<img src="public\componentes.png"/>
+<h2>Todos os arquivos que compõem o projeto</h2>
+<img src="/dependencias do projeto.png"/>
+
+
+<h2>Pasta components</h2>
+<p>Pasta components: Todos os arquivos relativo a interface da aplicação</p>
+<img src="/componentes.png"/>
+
+<h2>Pasta function</h2>
+<p>Pasta function: possuí um único arquivo com a logica responsável pro embaralhar as perguntas e respostas</p>
+<img src="/pasta_função.png"/>
 
