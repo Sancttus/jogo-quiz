@@ -1,5 +1,6 @@
-import RespostaModel from "../pages/model/resposta"
-import styles from "../styles/Resposta.module.css"
+import RespostaModel from "../pages/model/resposta";
+import styles from "../styles/Resposta.module.css";
+
 
 
 interface RespostaProps{
