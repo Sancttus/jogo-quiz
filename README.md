@@ -43,16 +43,27 @@ Nessa tela também tem um botão para reiniciar o jogo.
 <img src="public\componentes.png"/>
 
 <h2>Pasta function</h2>
-<p>Pasta function: possuí um único arquivo com a logica responsável pro embaralhar as perguntas e respostas</p>
+<p>Pasta function: possuí um único arquivo com a logica responsável pra gerar um id aleatorio </p>
 <img src="public/pasta_função.png"/>
 
 <h2>Pasta pages</h2>
 <p>Pasta page: possuí possuí outras pastas dentro dela pasta API, pasta QUESTOES, Pasta MODEL e alguns arquivos</p>
-<p>Pasta API:  </p>
-<p>Pasta QUESTOES: </p>
-<p>Pasta MODEL: </p>
-<p>Arquivo index.tsx: </p>
-<p>Arquivo numeroAleatorios.tsx: </p>
-<p>Arquivo resultado.tsx: </p>
+<p>Pasta QUESTOES: dentro dessa pasta temos 2 arquivos [id] e bandoDeQuestoes  </p>
+<p>Pasta MODEL: dentro da pasta MODEL temos 2 arquivos quetoes e respostas</p>
+<p>Arquivo index.tsx: retornar todas as perguntas selecionada do bandoDeQuestoes e embaralha e recebe a função que embaralha as respostas </p>
+<p>Arquivo resultado.tsx: arquivo que contem a logica que informa o resultado final do game</p>
 <img src="public\pasta_pages.png"/>
+
+
+<h2>Pasta styles</h2>
+<p>Pasta function: possuí todos os arquivos refente a css do projeto </p>
+<img src="public\Pasta_styles.css.png"/>
+
+<h2>O game</h2>
+<p>Imagens do jogo em funcionamento </p>
+<img src="public\tela_perguntas.png"/>
+
+<h2>O resultado no fim do game</h2>
+<p>Imagens do resultado no fim do game </p>
+<img src="public\tela_resultado.png"/>
 
