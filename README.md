@@ -12,7 +12,7 @@
  <hr/>
 
 <h2>********************* Dependências *********************</h2> 
-<p>npx create-next-app jogo-quiz</p>
+<p>npx create-next-app Porta</p>
 <p>npm install --save-dev @types/react@18.0.1</p>
 
 
@@ -39,7 +39,7 @@ Nessa tela também tem um botão para reiniciar o jogo.
 
 
 <h2>Pasta components</h2>
-<p>Pasta components: Todos os arquivos relativo a interface da aplicação</p>
+<p>Pasta components: Todos os arquivos relativo a interface da aplicação como os cartões que ficam as perguta e respostas</p>
 <img src="public\componentes.png"/>
 
 <h2>Pasta function</h2>
