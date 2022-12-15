@@ -47,7 +47,7 @@ Nessa tela também tem um botão para reiniciar o jogo.
 <img src="public/pasta_função.png"/>
 
 <h2>Pasta pages</h2>
-<p>Pasta page: possuí outras pastas dentro dela pasta API, pasta QUESTOES, Pasta MODEL e alguns arquivos</p>
+<p>Pasta page: Possuí outras pastas dentro dela pasta: API, pasta QUESTOES, Pasta MODEL e alguns arquivos</p>
 <p>Pasta QUESTOES: dentro dessa pasta temos 2 arquivos [id] e bandoDeQuestoes  </p>
 <p>Pasta MODEL: dentro da pasta MODEL temos 2 arquivos quetoes e respostas</p>
 <p>Arquivo index.tsx: retornar todas as perguntas selecionada do bandoDeQuestoes e embaralha e recebe a função que embaralha as respostas </p>
