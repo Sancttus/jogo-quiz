@@ -48,9 +48,9 @@ Nessa tela também tem um botão para reiniciar o jogo.
 
 <h2>Pasta pages</h2>
 <p>Pasta page: Possuí outras pastas dentro dela pasta: Pasta Api, Pasta Questões, Pasta Model e alguns arquivos</p>
-<p>Pasta QUESTOES: dentro dessa pasta temos 2 arquivos [id] e bandoDeQuestoes  </p>
-<p>Pasta MODEL: dentro da pasta MODEL temos 2 arquivos quetoes e respostas</p>
-<p>Arquivo index.tsx: retornar todas as perguntas selecionada do bandoDeQuestoes e embaralha e recebe a função que embaralha as respostas </p>
+<p>Pasta QUESTOES: dentro dessa pasta temos 2 arquivos [id] e bancoDeQuestoes  </p>
+<p>Pasta MODEL: dentro da pasta MODEL temos 2 arquivos questoes e respostas</p>
+<p>Arquivo index.tsx: retornar todas as perguntas selecionada do bancoDeQuestoes recebe a função que embaralha as respostas </p>
 <p>Arquivo resultado.tsx: arquivo que contem a logica que informa o resultado final do game</p>
 <img src="public\pasta_pages.png"/>
 
@@ -60,10 +60,10 @@ Nessa tela também tem um botão para reiniciar o jogo.
 <img src="public\Pasta_styles.css.png"/>
 
 <h2>O game</h2>
-<p>Imagens do jogo em funcionamento </p>
+<p>Imagem do jogo em funcionamento </p>
 <img src="public\tela_perguntas.png"/>
 
 <h2>O resultado no fim do game</h2>
-<p>Imagens do resultado no fim do game </p>
+<p>Imagem do resultado no fim do game </p>
 <img src="public\tela_resultado.png"/>
 
