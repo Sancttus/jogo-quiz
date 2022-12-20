@@ -1,8 +1,7 @@
 import styles from '../styles/Questionario.module.css'
 import Questao from './Questao'
 import Botao from './Botao'
-import QuestaoModel from '../pages/model/questao'
-
+import QuestaoModel from "../model/questao"
 
 interface QuestionarioProps {
     questao: QuestaoModel
@@ -24,7 +23,7 @@ export default function Questionario(props: QuestionarioProps) {
             {props.questao ?
                 <Questao
                     valor={props.questao}
-                    tempoPraResposta={8}
+                    tempoPraResposta={6}
                     respostaFornecida={respostaFornecida}
                     tempoEsgotado={props.irPraProximoPasso} />
                 : false

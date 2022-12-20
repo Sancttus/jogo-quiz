@@ -1,12 +1,11 @@
-.estatistica{
+.estatistica {
     display: flex;
-    align-items: center;
     flex-direction: column;
+    align-items: center;
     margin: 10px;
-
 }
 
-.valor{
+.valor {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,8 +15,7 @@
     font-size: 4rem;
 }
 
-
-.texto{
+.texto {
     color: #ddd;
     font-size: 1.7rem;
     font-weight: 200;

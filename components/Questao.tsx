@@ -1,10 +1,8 @@
-import QuestaoModel from '../pages/model/questao'
 import styles from '../styles/Questao.module.css'
-
+import QuestaoModel from '../model/questao'
 import Enunciado from './Enunciado'
-
+import Temporizador from './Temporizador'
 import Resposta from './Resposta'
-import Temporizador from './Temporizado'
 
 const letras = [
     { valor: 'A', cor: '#F2C866' },
@@ -24,7 +22,7 @@ export default function Questao(props: QuestaoProps) {
     const questao = props.valor
 
     function renderizarRespostas() {
-        return questao.resposta.map((resposta, i) => {
+        return questao.respostas.map((resposta, i) => {
             return (
                 <Resposta
                     key={`${questao.id}-${i}`}

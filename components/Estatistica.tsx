@@ -1,12 +1,10 @@
+import styles from '../styles/Estatistica.module.css'
 
-import styles from "../styles/Estatistica.module.css"
-
-interface EstatisticaProps{
+interface EstatisticaProps {
     valor: any
     texto: string
-    corFonte?: string // paramentro opcional
-    corFundo?: string //paramentro opcional
-
+    corFundo?: string
+    corFonte?: string
 }
 
 export default function Estatistica(props: EstatisticaProps) {
